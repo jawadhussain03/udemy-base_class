@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # base
 
 #### Table of Contents
@@ -88,7 +87,3 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
-=======
-# udemy-base_class
-base class to install common config
->>>>>>> 90070360c9ad765f9b7b1bb388265b58fd8190dd
